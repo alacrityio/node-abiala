@@ -1,5 +1,5 @@
 {
-  "name": "@eosrio/node-abieos",
+  "name": "node-abiala",
   "version": "2.1.1",
   "description": "Node Bindings for abieos: Binary <> JSON conversion using ABIs.",
   "main": "abieos.js",
